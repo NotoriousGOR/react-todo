@@ -5,7 +5,9 @@
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "axios": "^0.18.0",
+    "react-router-dom": "^4.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -21,10 +23,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "devDependencies": {
-    "axios": "^0.18.0",
-    "react-router-dom": "^4.4.0",
-    "uuid": "^3.3.2"
-  }
+  ]
 }
